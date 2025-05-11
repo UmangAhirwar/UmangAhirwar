@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Umang Ahirwar</h1>
-<h3 align="center">A passionate frontend developer from Gujarat.</h3>
+<h3 align="center">A passionate full stack web developer from Gujarat.</h3>
 
 - 🔭 I’m currently working on **My portfolio**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Development with dsa**
 
 - 📫 How to reach me **umangahirwar2003@gmail.com**
 
